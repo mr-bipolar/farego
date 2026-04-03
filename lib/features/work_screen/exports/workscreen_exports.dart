@@ -1,0 +1,15 @@
+export 'package:farego/features/work_screen/data/data_build/autofare_builder.dart';
+export 'package:farego/features/work_screen/data/data_build/busfare_builder.dart';
+export 'package:farego/features/work_screen/controller/fare_controller.dart';
+export 'package:farego/features/work_screen/data/data_build/taxifare_builder.dart';
+export 'package:farego/features/work_screen/data/models/fare_model.dart';
+export 'package:farego/features/work_screen/presentation/widgets/app_bar.dart';
+export 'package:farego/features/work_screen/presentation/widgets/distance.dart';
+export 'package:farego/features/work_screen/presentation/widgets/location_pin.dart';
+export 'package:farego/features/work_screen/presentation/widgets/switch_button.dart';
+export 'package:farego/features/work_screen/presentation/widgets/ticket_data.dart';
+export 'package:farego/features/work_screen/presentation/widgets/ticket_details.dart';
+export 'package:farego/features/work_screen/presentation/bloc/fare_cubit.dart';
+export 'package:farego/features/work_screen/presentation/bloc/fare_state.dart';
+export 'package:farego/features/work_screen/presentation/widgets/auto_rickshaw_switchs.dart';
+export 'package:farego/features/work_screen/presentation/widgets/engine_switch.dart';
