@@ -38,5 +38,10 @@ git clone https://github.com/mr-bipolar/farego.git
 cd farego
 flutter pub get
 flutter run
+```
+##  Download APK
+[Download Latest APK](https://github.com/mr-bipolar/farego/releases)
+
+
 
 
